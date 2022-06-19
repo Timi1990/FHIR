@@ -17,7 +17,7 @@
     "carbon-icons": "^7.0.7",
     "classnames": "^2.2.6",
     "gatsby": "2.13.39",
-    "gatsby-plugin-manifest": "^2.4.10",
+    "gatsby-plugin-manifest": "^3.0.0",
     "gatsby-plugin-sharp": "^2.6.10",
     "gatsby-plugin-sitemap": "^2.4.4",
     "gatsby-plugin-slug": "^1.0.1",
